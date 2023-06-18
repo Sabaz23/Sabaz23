@@ -12,6 +12,11 @@
 </div>
 
 ---
+<p>
+  Hello, i'm Luca Sabatino and i live in Italy, near Genoa.<br>
+  I'm currently ending my undergraduate studies in Computer Science at the University of Genoa.
+</p>
+
 <h2>📈Stats and cool data📈</h2>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabaz23&layout=compact)
