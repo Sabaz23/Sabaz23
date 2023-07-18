@@ -14,7 +14,7 @@
 ---
 <p>
   Hello, i'm Luca Sabatino and i live in Italy, near Genoa.<br>
-  I'm currently ending my undergraduate studies in Computer Science at the University of Genoa.
+  I'm currently studying Computer Science at the University of Genoa.
 </p>
 
 <h2>Tools, Engines and IDEs i use</h2>
@@ -46,9 +46,14 @@
 <a href="https://maven.apache.org/">
   <img align="center" src="https://images.velog.io/images/pllap/post/9cefd5dd-bd0c-4382-aa25-6751e1cc9cec/file_type_maven_icon_130397.png" width="50"/>
 </a>
+<a href="https://angular.io/">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width="50"/>
+</a>
+
+<h2>Languages</h2>
 
 
-
+---
 <h2>📈Stats and cool data📈</h2>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabaz23&layout=compact)
