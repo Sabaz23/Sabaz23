@@ -58,4 +58,4 @@
 ---
 <h2>📈Stats and cool data📈</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabaz23&layout=compact)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Sabaz23)](https://github.com/stats-organization/github-stats-extended)
