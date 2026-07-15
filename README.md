@@ -20,12 +20,6 @@
 </p>
 
 <h2>Tools, Engines and IDEs i use</h2>
-<a href="https://code.visualstudio.com/">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" width="50"/>
-</a>
-<a href="https://visualstudio.microsoft.com/it/">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/640px-Visual_Studio_Icon_2022.svg.png" width="50"/>
-</a>
 <a href="https://git-scm.com/">
   <img align="center" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50"/>
 </a>
@@ -47,9 +41,6 @@
 </a>
 <a href="https://maven.apache.org/">
   <img align="center" src="https://images.velog.io/images/pllap/post/9cefd5dd-bd0c-4382-aa25-6751e1cc9cec/file_type_maven_icon_130397.png" width="50"/>
-</a>
-<a href="https://angular.io/">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width="50"/>
 </a>
 
 <h2>Languages</h2>
